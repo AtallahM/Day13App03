@@ -16,7 +16,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-
+//some changes
 public class MainActivity extends AppCompatActivity {
     private final String SERVIVCE_URL = "http://apilayer.net/api/live?access_key=089debb1ad610a91fa2c760b5b4d004a&source=USD&currencies=USD,QAR,EGP,GBP&format=1";
     private TextView txt ;
