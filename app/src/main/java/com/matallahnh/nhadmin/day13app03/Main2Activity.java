@@ -18,7 +18,7 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         notification = new NotificationCompat.Builder(this);
     }
-//test
+//test2
     public void btn_click(View view) {
         notification.setSmallIcon(R.mipmap.ic_launcher);
         notification.setContentTitle("My App Notification");
